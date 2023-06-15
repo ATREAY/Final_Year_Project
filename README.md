@@ -4,10 +4,8 @@ This project introduces an answer retrieval system utilizing BERT, LDA, and docu
 ## Contributors
 
 <a href="https://github.com/ATREAY/Final_Year_Project_FrontEnd/graphs/contributors">
-  
 </a>
 <a href="https://github.com/prithvirajchendake777/Final_Year_Project_FrontEnd/graphs/contributors">
-  
 </a>
 
 
