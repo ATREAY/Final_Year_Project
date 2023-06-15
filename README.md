@@ -10,7 +10,7 @@ This project introduces an answer retrieval system utilizing BERT, LDA, and docu
   
 </a>
 <a href="https://github.com/Aiyan-Faras/Final_Year_Project_FrontEnd/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Aiyan-Faras/Final_Year_Project_FrontEnd" />
+  
 </a>
 
 
